@@ -37,7 +37,7 @@ void backtracking(参数) {
 
 ## 77 组合
 
-### [题目描述](https://leetcode.cn/problems/combinations/submissions/397390284/）
+### [题目描述](https://leetcode.cn/problems/combinations/submissions/397390284/)
 
 ### 代码1
 
